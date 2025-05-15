@@ -1,6 +1,8 @@
 # Data-Preparation-in-Python
 
-Run the code 'customerchurn_datapreperation.py'
+## Run the Code
+
+To execute the data preparation script, run [`customerchurn_datapreperation.py`](./customerchurn_datapreperation.py).
 
 ![Image](https://github.com/user-attachments/assets/1478328b-b2be-4332-b17f-59d18e71337a)
 
