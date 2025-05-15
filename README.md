@@ -1,6 +1,6 @@
 # Data-Preparation-in-Python
 
-Run the code 'CustomerChurn_DataPreperation.ipynb'
+Run the code CustomerChurn_DataPreperation.ipynb
 
 ![Image](https://github.com/user-attachments/assets/1478328b-b2be-4332-b17f-59d18e71337a)
 
