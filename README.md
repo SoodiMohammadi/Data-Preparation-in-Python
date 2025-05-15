@@ -3,9 +3,13 @@
 ![Image](https://github.com/user-attachments/assets/1478328b-b2be-4332-b17f-59d18e71337a)
 
 ## Data Exploration and Analysis (EDA):
+
 Understand the dataset's structure, dimensions, and types of data.
+
 Explore the distribution of each feature and target variable.
+
 Visualize relationships between features and the target variable using appropriate plots and charts.
+
 Identify potential patterns, trends, and outliers.
 
 ## Data Cleaning:
