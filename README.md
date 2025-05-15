@@ -13,13 +13,20 @@ Visualize relationships between features and the target variable using appropria
 Identify potential patterns, trends, and outliers.
 
 ## Data Cleaning:
+
 Identify and handle missing values appropriately (imputation).
+
 Address any inconsistencies or errors in the data.
+
 Ensure data integrity and consistency.
 
 ## Feature Engineering:
+
 Select relevant features based on domain knowledge and exploration.
+
 Create new features that might improve predictive performance.
+
 Convert categorical variables into numerical representations (one-hot encoding).
+
 Scale or normalize numerical features if needed.
 
