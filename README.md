@@ -1,5 +1,7 @@
 # Data-Preparation-in-Python
 
+![Image](https://github.com/user-attachments/assets/1478328b-b2be-4332-b17f-59d18e71337a)
+
 ## Data Exploration and Analysis (EDA):
 Understand the dataset's structure, dimensions, and types of data.
 Explore the distribution of each feature and target variable.
@@ -17,4 +19,3 @@ Create new features that might improve predictive performance.
 Convert categorical variables into numerical representations (one-hot encoding).
 Scale or normalize numerical features if needed.
 
-![Image](https://github.com/user-attachments/assets/61c2020d-99c4-4715-8a46-b83cb7751e79)
